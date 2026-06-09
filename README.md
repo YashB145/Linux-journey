@@ -12,3 +12,8 @@ Starting off my Linux journey and updating about what I implemented on my learni
 1. cd- change directory
 2. touch- used to create an empty file
 3. clear- clears the terminal
+
+# Day 3
+1. Timestamp--> $date
+2. Sorting--> ls -s -->shows list of files and allocated space
+              ls -lS --> sorts files by size, largest first
