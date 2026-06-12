@@ -1,7 +1,7 @@
 # Linux-journey
 Starting off my Linux journey and updating about what I implemented on my learning path.
 
-# Day 1- Linux basics.
+# Day 1- LINUX BASICS.
 ## Starting with linux commands
 
 1. echo- used to print anything in " ".
@@ -23,3 +23,12 @@ Starting off my Linux journey and updating about what I implemented on my learni
 4. extras:
    ls -ald --> prints directories only
    ls -al --author --> prints username of creator of file
+
+# Day 4- THE 'man' COMMAND
+1. 'man man'--> opens the manual page.
+2. 'man ls'--> lists all the commands with description from manual.
+3. 'man intro'--> gives introduction to user commands.
+4. 'man -w ls'--> returns location of the file from where page is rendered.
+
+
+# WORKING WITH DIRECTORIES
