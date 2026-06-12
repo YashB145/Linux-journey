@@ -32,3 +32,17 @@ Starting off my Linux journey and updating about what I implemented on my learni
 
 
 # WORKING WITH DIRECTORIES
+# Create directory
+1. **mkdir** --> creates new directory.
+2. mkdir testdir{01..10}--> creates 10 new directories with prefix testdir.
+3. mkdir -p parentdir/ childdir{01..100} --> -p allows the system to create a parent directory.
+                                              To view type ls -l parentdir.
+
+# Change directory   
+5. **cd**--> change directory, to change directory use: cd dir_name.
+6. To get back to home or root directory--> cd, cd $HOME, cd ~, cd /root.
+
+# Remove directory
+7. **rmdir** --> remove/ delete directory.
+8. To remove any directory --> rmdir dir_name.
+9. To remove any directory forcefully --> rm -rf dir_name.
