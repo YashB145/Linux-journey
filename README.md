@@ -1,7 +1,7 @@
 # Linux-journey
 Starting off my Linux journey and updating about what I implemented on my learning path.
 
-# Day 1- Linux basics
+# Day 1- Linux basics.
 ## Starting with linux commands
 
 1. echo- used to print anything in " ".
