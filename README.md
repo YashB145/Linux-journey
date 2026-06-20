@@ -54,4 +54,7 @@ Starting off my Linux journey and updating about what I implemented on my learni
 1. touch testfile --> creates empty file named testfile.
 2. touch my{01..100}file --> creates multiple files with name my01file..... my100file.
 3. ls my*file --> displays all files with myFile name.
-4. 
+
+## Deleting Files
+1. rm try01 --> Deletes file try01
+2. rm -rf testdir --> forcefully deletes the testdir directory.
