@@ -50,3 +50,8 @@ Starting off my Linux journey and updating about what I implemented on my learni
 9. To remove any directory forcefully --> rm -rf dir_name.
 
 
+# Day 5- CREATE AND DELETE FILES
+1. touch testfile --> creates empty file named testfile.
+2. touch my{01..100}file --> creates multiple files with name my01file..... my100file.
+3. ls my*file --> displays all files with myFile name.
+4. 
