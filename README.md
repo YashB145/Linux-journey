@@ -58,3 +58,6 @@ Starting off my Linux journey and updating about what I implemented on my learni
 ## Deleting Files
 1. rm try01 --> Deletes file try01
 2. rm -rf testdir --> forcefully deletes the testdir directory.
+
+## vim
+vim is used to create a new file just as touch.
