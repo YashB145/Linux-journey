@@ -8,10 +8,12 @@ Starting off my Linux journey and updating about what I implemented on my learni
 2. whoami- displays the current user.
 3. pwd- prints the working directory
 
+
 # Day 2
 1. cd- change directory
 2. touch- used to create an empty file
 3. clear- clears the terminal
+
 
 # Day 3
 1. Timestamp--> $date
@@ -24,12 +26,12 @@ Starting off my Linux journey and updating about what I implemented on my learni
    ls -ald --> prints directories only
    ls -al --author --> prints username of creator of file
 
+
 # Day 4- THE 'man' COMMAND
 1. 'man man'--> opens the manual page.
 2. 'man ls'--> lists all the commands with description from manual.
 3. 'man intro'--> gives introduction to user commands.
 4. 'man -w ls'--> returns location of the file from where page is rendered.
-
 
 # WORKING WITH DIRECTORIES
 ## Create directory
@@ -46,3 +48,5 @@ Starting off my Linux journey and updating about what I implemented on my learni
 7. **rmdir** --> remove/ delete directory.
 8. To remove any directory --> rmdir dir_name.
 9. To remove any directory forcefully --> rm -rf dir_name.
+
+
