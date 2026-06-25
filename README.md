@@ -66,3 +66,4 @@ vim is used to create a new file just as touch.
 The pipes and redirections are used to send or retrieve some information sent from one command or script to another.
 1. grep --> this command searches for a given pattern in the output.
 2. wc --> is a utility for counting words, new lines, bytes.
+3. sort --> will sort the output in alphabetical order.
