@@ -61,3 +61,7 @@ Starting off my Linux journey and updating about what I implemented on my learni
 
 ## vim
 vim is used to create a new file just as touch.
+
+# Day 6- PIPES and REDIRECTIONS
+The pipes and redirections are used to send or retrieve some information sent from one command or script to another.
+1. grep --> this command searches for a given pattern in the output.
