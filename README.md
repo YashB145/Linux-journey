@@ -67,3 +67,8 @@ The pipes and redirections are used to send or retrieve some information sent fr
 1. grep --> this command searches for a given pattern in the output.
 2. wc --> is a utility for counting words, new lines, bytes.
 3. sort --> will sort the output in alphabetical order.
+
+# Day 7- THE PIPE
+1. command1 | command2
+2. Redirecting output to file --> ls -al > directorylist.txt --> output is directed to directorylist.txt
+3. > --> directs from left to right and '<' vice versa
