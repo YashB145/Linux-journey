@@ -69,7 +69,7 @@ The pipes and redirections are used to send or retrieve some information sent fr
 3. sort --> will sort the output in alphabetical order.
 
 # Day 7- THE PIPE
-1. command1 | command2
-2. Redirecting output to file --> ls -al > directorylist.txt --> output is directed to directorylist.txt
 
+2. Redirecting output to file --> ls -al > directorylist.txt --> output is directed to directorylist.txt
+3. > --> directs from left to right and '<' vice versa
 4. eg: wc -l <numbers.txt> count.txt
