@@ -73,3 +73,4 @@ The pipes and redirections are used to send or retrieve some information sent fr
 2. Redirecting output to file --> ls -al > directorylist.txt --> output is directed to directorylist.txt
 3. > --> directs from left to right and '<' vice versa
 4. eg: wc -l <numbers.txt> count.txt
+
