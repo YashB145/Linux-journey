@@ -74,3 +74,11 @@ The pipes and redirections are used to send or retrieve some information sent fr
 3. > --> directs from left to right and '<' vice versa
 4. eg: wc -l <numbers.txt> count.txt
 
+# Day 8- READING THE FILE
+1. cat --> prints whole file in one shot.
+2. vim, view --> same
+3. more, less --> views the file in interactive mode
+
+To print specific parts of the file: 
+1. head filename --> prints first 10 lines
+2. head -n2 filename --> prints first 2 lines.
