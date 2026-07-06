@@ -2,7 +2,7 @@
 Starting off my Linux journey and updating about what I implemented on my learning path.
   
 # Day 1- LINUX BASICS. 
-## Starting with linux commands  
+## Starting with linux commands   
  
 1. echo- used to print anything in " ".
 2. whoami- displays the current user.
