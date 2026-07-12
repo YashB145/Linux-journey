@@ -17,7 +17,7 @@ Starting off my Linux journey and updating about what I implemented on my learni
 
 # Day 3
 1. Timestamp--> $date
-2. Sorting--> ls -s -->shows list of files and allocated space
+2. Sorting--> ls -s -->shows list of files and allocated space 
               ls -lS --> sorts files by size, largest first
 3. Formatting--> ls --format=commas --> separates file name by commas.
                  ls -lQ --> prints file name in quotes/short form
